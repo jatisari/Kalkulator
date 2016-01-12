@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void hitung(String arg) {
+        //haloskkks
         if (isValidInput()) {
             float bil1 = Float.parseFloat(editTextBil1.getText().toString());
             float bil2 = Float.parseFloat(editTextBil2.getText().toString());
